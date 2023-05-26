@@ -70,11 +70,11 @@
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Metrics
 ![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
    
-   1. The Accuracy Score of the Logistic Regression Model built for predicting Sentiments of the Users is found around 76% and the F1 Score is found 75%.
+   1. The Accuracy Score of the Logistic Regression Model built for predicting Sentiments of the Users is found around 79.6%.
    
-   2. The Accuracy Score of the Decision Tree Model built for predicting Sentiments of the Users is found around 73% and also the F1 Score is found 73%.
+   2. The Accuracy Score of the Decision Tree Model built for predicting Sentiments of the Users is found around 73%.
    
-   3. The Accuracy Score of the Random Forest Model built for predicting Sentiments of the Users is found around 90% and also the F1 Score is found 90%.
+   3. The Accuracy Score of the Random Forest Model built for predicting Sentiments of the Users is found around 90%.
    
    <br>
    
